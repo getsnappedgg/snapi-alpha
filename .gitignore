@@ -11,7 +11,7 @@ node_modules
 !.elasticbeanstalk/*.global.yml
 
 ./src/scripts/script.js
-dist
+
 functions
 
 # Local Netlify folder
